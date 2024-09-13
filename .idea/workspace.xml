@@ -4,25 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b80f583c-0c9d-497d-98a8-6d6390706ee1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject_course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/с2.py" afterDir="false" />
+    <list default="true" id="b80f583c-0c9d-497d-98a8-6d6390706ee1" name="Changes" comment="2">
+      <change afterPath="$PROJECT_DIR$/Tasks/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/26.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/36s.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/38s.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/44.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/44.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/c1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c43.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/c43.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/с2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/с2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +80,50 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1.executor": "Run",
+    "Python.10.executor": "Run",
+    "Python.11.executor": "Run",
+    "Python.12.executor": "Run",
+    "Python.13.executor": "Run",
+    "Python.14.executor": "Run",
+    "Python.15.executor": "Run",
+    "Python.16.executor": "Run",
+    "Python.17.executor": "Run",
+    "Python.18.executor": "Run",
+    "Python.19.executor": "Run",
     "Python.2-3.executor": "Run",
     "Python.2-6.executor": "Run",
     "Python.2.executor": "Run",
+    "Python.20.executor": "Run",
+    "Python.21.executor": "Run",
+    "Python.22.executor": "Run",
+    "Python.23.executor": "Run",
+    "Python.24.executor": "Run",
+    "Python.25.executor": "Run",
+    "Python.26.executor": "Run",
+    "Python.27.executor": "Run",
+    "Python.28.executor": "Run",
+    "Python.29.executor": "Run",
+    "Python.3.executor": "Run",
+    "Python.30.executor": "Run",
+    "Python.31.executor": "Run",
+    "Python.32.executor": "Run",
+    "Python.33.executor": "Run",
+    "Python.34.executor": "Run",
+    "Python.35.executor": "Run",
+    "Python.36s.executor": "Run",
+    "Python.37.executor": "Run",
+    "Python.38s.executor": "Run",
+    "Python.39.executor": "Run",
     "Python.4.executor": "Run",
+    "Python.40.executor": "Run",
+    "Python.41.executor": "Run",
+    "Python.42.executor": "Run",
+    "Python.44.executor": "Run",
     "Python.5.executor": "Run",
+    "Python.6.executor": "Run",
+    "Python.7.executor": "Run",
+    "Python.8.executor": "Run",
+    "Python.9.executor": "Run",
     "Python.c1.executor": "Run",
     "Python.c43.executor": "Run",
     "Python.main.executor": "Run",
@@ -65,9 +131,14 @@
     "Python.с2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kolesnikov_KPP\PycharmProjects\pythonProject_course\Tasks" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject_course" />
@@ -108,7 +179,31 @@
       <option name="presentableId" value="Default" />
       <updated>1725881245443</updated>
     </task>
+    <task id="LOCAL-00001" summary="2">
+      <option name="closed" value="true" />
+      <created>1726128795386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726128795386</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
