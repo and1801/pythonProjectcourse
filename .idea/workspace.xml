@@ -5,51 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b80f583c-0c9d-497d-98a8-6d6390706ee1" name="Changes" comment="2">
-      <change afterPath="$PROJECT_DIR$/Tasks/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/36s.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/38s.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tasks/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/44.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/44.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/c1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c43.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/c43.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/с2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/с2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +66,13 @@
     "Python.27.executor": "Run",
     "Python.28.executor": "Run",
     "Python.29.executor": "Run",
+    "Python.3-1.executor": "Run",
+    "Python.3-2.executor": "Run",
+    "Python.3-3.executor": "Run",
+    "Python.3-4.executor": "Run",
+    "Python.3-5.executor": "Run",
+    "Python.3-6.executor": "Run",
+    "Python.3-7.executor": "Run",
     "Python.3.executor": "Run",
     "Python.30.executor": "Run",
     "Python.31.executor": "Run",
@@ -131,7 +101,7 @@
     "Python.с2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -187,7 +157,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726128795386</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2">
+      <option name="closed" value="true" />
+      <created>1726215387039</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726215387039</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2">
+      <option name="closed" value="true" />
+      <created>1726215404470</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726215404470</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
