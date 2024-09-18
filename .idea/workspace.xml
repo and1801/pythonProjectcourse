@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b80f583c-0c9d-497d-98a8-6d6390706ee1" name="Changes" comment="2">
-      <change afterPath="$PROJECT_DIR$/3-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-t1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-t2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-t3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-t4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-t5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;and1801&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/and1801/pythonProjectcourse.git&quot;,
+    &quot;accountId&quot;: &quot;8cd4be29-6848-41eb-8536-b09af189373c&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -84,6 +101,18 @@
     "Python.37.executor": "Run",
     "Python.38s.executor": "Run",
     "Python.39.executor": "Run",
+    "Python.4-1.executor": "Run",
+    "Python.4-2.executor": "Run",
+    "Python.4-3.executor": "Run",
+    "Python.4-4.executor": "Run",
+    "Python.4-5.executor": "Run",
+    "Python.4-6.executor": "Run",
+    "Python.4-7.executor": "Run",
+    "Python.4-t1.executor": "Run",
+    "Python.4-t2.executor": "Run",
+    "Python.4-t3.executor": "Run",
+    "Python.4-t4.executor": "Run",
+    "Python.4-t5.executor": "Run",
     "Python.4.executor": "Run",
     "Python.40.executor": "Run",
     "Python.41.executor": "Run",
@@ -101,7 +130,8 @@
     "Python.с2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "settings.sync"
+    "last_opened_file_path": "C:/Users/Kolesnikov_KPP/PycharmProjects/pythonProject_course",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -173,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726215404470</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2">
+      <option name="closed" value="true" />
+      <created>1726475777993</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726475777993</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
