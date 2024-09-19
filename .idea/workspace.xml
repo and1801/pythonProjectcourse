@@ -5,19 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b80f583c-0c9d-497d-98a8-6d6390706ee1" name="Changes" comment="2">
-      <change afterPath="$PROJECT_DIR$/4-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-t1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-t2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-t3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-t4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-t5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/3-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5-11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5-12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5-13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5-14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5-15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5-6g.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5-7t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/5-9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/t1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/t2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/t3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/t4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5/t5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/3/3-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/3/3-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/3/3-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/3/3-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/3/3-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/3/3-7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/4-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/4-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/4-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/4-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/4-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/4-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/4-7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-t1.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/4-t1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-t2.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/4-t2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-t3.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/4-t3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-t4.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/4-t4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4-t5.py" beforeDir="false" afterPath="$PROJECT_DIR$/4/4-t5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +153,21 @@
     "Python.41.executor": "Run",
     "Python.42.executor": "Run",
     "Python.44.executor": "Run",
+    "Python.5-1.executor": "Run",
+    "Python.5-10.executor": "Run",
+    "Python.5-11.executor": "Run",
+    "Python.5-12.executor": "Run",
+    "Python.5-13.executor": "Run",
+    "Python.5-14.executor": "Run",
+    "Python.5-15.executor": "Run",
+    "Python.5-2.executor": "Run",
+    "Python.5-3.executor": "Run",
+    "Python.5-4.executor": "Run",
+    "Python.5-5.executor": "Run",
+    "Python.5-6g.executor": "Run",
+    "Python.5-7t.executor": "Run",
+    "Python.5-8.executor": "Run",
+    "Python.5-9.executor": "Run",
     "Python.5.executor": "Run",
     "Python.6.executor": "Run",
     "Python.7.executor": "Run",
@@ -126,6 +176,11 @@
     "Python.c1.executor": "Run",
     "Python.c43.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.t1.executor": "Run",
+    "Python.t2.executor": "Run",
+    "Python.t3.executor": "Run",
+    "Python.t4.executor": "Run",
+    "Python.t5.executor": "Run",
     "Python.test1.executor": "Run",
     "Python.с2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -136,7 +191,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Kolesnikov_KPP\PycharmProjects\pythonProject_course\Tasks" />
+      <recent name="C:\Users\Kolesnikov_KPP\PycharmProjects\pythonProject_course\5" />
+      <recent name="C:\Users\Kolesnikov_KPP\PycharmProjects\pythonProject_course\4" />
+      <recent name="C:\Users\Kolesnikov_KPP\PycharmProjects\pythonProject_course\3" />
+      <recent name="C:\Users\Kolesnikov_KPP\PycharmProjects\pythonProject_course\2" />
+      <recent name="C:\Users\Kolesnikov_KPP\PycharmProjects\pythonProject_course\1" />
     </key>
   </component>
   <component name="RunManager">
@@ -211,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726475777993</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2">
+      <option name="closed" value="true" />
+      <created>1726660794492</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726660794492</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

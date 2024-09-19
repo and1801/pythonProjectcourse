@@ -39,7 +39,7 @@ def longest_chain(filename):
     return longest_chain
 
 # Пример использования
-filename = 'input.txt'  # Имя текстового файла
+filename = '../input.txt'  # Имя текстового файла
 try:
     chain = longest_chain(filename)
 
