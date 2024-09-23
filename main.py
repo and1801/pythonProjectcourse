@@ -1,16 +1,16 @@
-# This is a sample Python script.
+def currency_converter():
+    # Запрашиваем курс валюты от пользователя
+    rate = float(input("Введите курс валюты (например, 0.85 для конверсии из USD в EUR): "))
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+    # Запрашиваем сумму, которую нужно конвертировать
+    amount = float(input("Введите сумму для конвертации: "))
+
+    # Вычисляем конвертированную сумму
+    converted_amount = amount * rate
+
+    # Выводим результат
+    print(f"Конвертированная сумма: {converted_amount:.2f}")
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# Вызываем функцию для выполнения программы
+currency_converter()
