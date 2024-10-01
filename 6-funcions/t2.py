@@ -1,9 +1,8 @@
 def square(lengh):
     P = lengh * 4
     S = lengh **2
-    d = lengh * (2 ** 0.5)
+    d = lengh * (2 ** (1 / 2))
     return P, S, d
 
-sum = square(5)
-print(sum)
-
+num1, num2, num3 = square(5)
+print(num3, num2, num1)
