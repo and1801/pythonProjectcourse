@@ -5,43 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b80f583c-0c9d-497d-98a8-6d6390706ee1" name="Changes" comment="2">
-      <change afterPath="$PROJECT_DIR$/10-develop1prog/tkinter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/err0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/na0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/pr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/t1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/t2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/t3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/userexcept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7/zer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/arithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/courses/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/courses/python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/courses/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/matem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/newtext.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/randon1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/t1-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/t1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/t2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/t3-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/t3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/txt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/user_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/user_mod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8/user_pack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-tkinter/Tk-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-tkinter/Tk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-tkinter/t1-tk-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-tkinter/t1-tk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9-tkinter/tk-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-develop1prog/tk dev.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telegram_bot_dev/tg_bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/pythonProject_course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject_course.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-funcions/t2.py" beforeDir="false" afterPath="$PROJECT_DIR$/6-funcions/t2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6-funcions/t3.py" beforeDir="false" afterPath="$PROJECT_DIR$/6-funcions/t3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-develop1prog/tkinter.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -64,12 +34,12 @@
     &quot;assignee&quot;: &quot;and1801&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/and1801/pythonProjectcourse.git&quot;,
-    &quot;accountId&quot;: &quot;8cd4be29-6848-41eb-8536-b09af189373c&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/and1801/pythonProjectcourse.git",
+    "accountId": "536a6eee-7a87-43bc-88b7-2e3e6cfb497d"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -162,31 +132,19 @@
     "Python.7.executor": "Run",
     "Python.8.executor": "Run",
     "Python.9.executor": "Run",
-    "Python.Tk-2.executor": "Run",
-    "Python.Tk.executor": "Run",
     "Python.area_vis.executor": "Run",
-    "Python.arithmetic.executor": "Run",
     "Python.c1.executor": "Run",
     "Python.c43.executor": "Run",
-    "Python.err0.executor": "Run",
     "Python.func-args.executor": "Run",
     "Python.lambda.executor": "Run",
     "Python.main.executor": "Run",
-    "Python.math.executor": "Run",
-    "Python.na0.executor": "Run",
     "Python.names.executor": "Run",
-    "Python.pr.executor": "Run",
     "Python.practice.executor": "Run",
-    "Python.randon1.executor": "Run",
     "Python.return.executor": "Run",
     "Python.return_cookie.executor": "Run",
-    "Python.t1-1.executor": "Run",
-    "Python.t1-tk-1.executor": "Run",
-    "Python.t1-tk.executor": "Run",
     "Python.t1.executor": "Run",
     "Python.t2-mod.executor": "Run",
     "Python.t2.executor": "Run",
-    "Python.t3-1.executor": "Run",
     "Python.t3-mod.executor": "Run",
     "Python.t3.executor": "Run",
     "Python.t4.executor": "Run",
@@ -194,28 +152,19 @@
     "Python.t5.executor": "Run",
     "Python.t5outdef.executor": "Run",
     "Python.test1.executor": "Run",
+    "Python.tg_bot.executor": "Run",
     "Python.time.executor": "Run",
-    "Python.tk-3.executor": "Run",
-    "Python.txt.executor": "Run",
-    "Python.user_mod.executor": "Run",
-    "Python.user_pack.executor": "Run",
-    "Python.userexcept.executor": "Run",
-    "Python.zd_2.executor": "Run",
-    "Python.zd_3.executor": "Run",
-    "Python.zer.executor": "Run",
+    "Python.tk dev.executor": "Run",
+    "Python.tkinter.executor": "Run",
     "Python.с2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Kolesnikov_KPP/PycharmProjects/pythonProject_course/9-tkinter",
-    "settings.editor.selected.configurable": "File.Encoding"
+    "last_opened_file_path": "C:/Users/Kolesnikov_KPP/PycharmProjects/pythonProject_course",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Kolesnikov_KPP\PycharmProjects\pythonProject_course\9-tkinter" />
-      <recent name="C:\Users\Kolesnikov_KPP\PycharmProjects\pythonProject_course\8" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Kolesnikov_KPP\PycharmProjects\pythonProject_course\5" />
       <recent name="C:\Users\Kolesnikov_KPP\PycharmProjects\pythonProject_course\4" />
@@ -251,7 +200,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
@@ -312,15 +261,7 @@
       <option name="project" value="LOCAL" />
       <updated>1726747450521</updated>
     </task>
-    <task id="LOCAL-00007" summary="2">
-      <option name="closed" value="true" />
-      <created>1727091499890</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1727091499890</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
